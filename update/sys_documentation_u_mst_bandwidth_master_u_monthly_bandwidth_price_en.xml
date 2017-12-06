@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_monthly_bandwidth_price" label="Monthly_Bandwidth_Price" language="en" table="u_mst_bandwidth_master">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_monthly_bandwidth_price</element>
+            <help/>
+            <hint/>
+            <label>Monthly_Bandwidth_Price</label>
+            <language>en</language>
+            <name>u_mst_bandwidth_master</name>
+            <plural>Monthly_Bandwidth_Prices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-06 00:25:33</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>a3b5d262db7a03002dcf5ff0cf96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Monthly_Bandwidth_Price</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_u_mst_bandwidth_master_u_monthly_bandwidth_price_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-06 00:25:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

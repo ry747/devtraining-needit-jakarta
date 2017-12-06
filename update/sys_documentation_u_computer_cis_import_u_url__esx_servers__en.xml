@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_url__esx_servers_" label="URL (ESX servers)" language="en" table="u_computer_cis_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_url__esx_servers_</element>
+            <help/>
+            <hint/>
+            <label>URL (ESX servers)</label>
+            <language>en</language>
+            <name>u_computer_cis_import</name>
+            <plural>URL (ESX servers)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-06 00:22:26</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>3d051eaedb3a03002dcf5ff0cf961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>URL (ESX servers)</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_u_computer_cis_import_u_url__esx_servers__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-06 00:22:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Account Alert" max_length="40" name="u_account_alert" type="collection">
+        <element label="Domain Path" max_length="255" name="sys_domain_path" type="domain_path"/>
+        <index name="index">
+            <element name="sys_domain_path"/>
+        </index>
+    </element>
+</database>
